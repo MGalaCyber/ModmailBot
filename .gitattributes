@@ -1,0 +1,8 @@
+# Files that shouldn't be exported
+.gitattributes
+.gitignore
+.vscode
+.env
+
+# Line endings
+* text=auto
